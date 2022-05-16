@@ -259,20 +259,20 @@ $color2: black;
 .uno {
   grid-row: 1/3;
   grid-column: 1/3;
-  background-image: url(imagenes/blackeyegalaxy.jpeg);
+  background-image: url(../imagenes/blackeyegalaxy.jpeg);
   background-size: cover;
   background-position: center;
 }
 
 .dos {
-  background-image: url(imagenes/LAUNCH.jpeg);
+  background-image: url(../imagenes/LAUNCH.jpeg);
   background-size: cover;
   background-position: center;
   grid-row: 1/3;
   grid-column: 3/5;
 }
 .tres {
-  background-image: url(imagenes/CPAN.jpeg);
+  background-image: url(../imagenes/CPAN.jpeg);
   background-size: cover;
   background-position: center;
   grid-row: 1/3;
@@ -281,21 +281,21 @@ $color2: black;
  
 }
 .cuatro {
-  background-image: url(imagenes/Derace.jpeg);
+  background-image: url(../imagenes/Derace.jpeg);
   background-size: cover;
   background-position: center;
   grid-column: 1/3;
   grid-row: 3/5;
 }
 .cinco {
-  background-image: url(imagenes/CCAR.jpeg);
+  background-image: url(../imagenes/CCAR.jpeg);
   background-size: cover;
   background-position: center;
   grid-row: 3/5;
   grid-column: 3/5;
 }
 .seis {
-  background-image: url(imagenes/WANAKA.jpeg);
+  background-image: url(../imagenes/WANAKA.jpeg);
   background-size: cover;
   background-position: center;
   grid-column: 5/7;
